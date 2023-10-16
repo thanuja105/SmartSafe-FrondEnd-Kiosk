@@ -120,6 +120,7 @@ export class StoreInfoRequest {
     printer: Printer[];
     userIds: [];
     stateName:string;
+    cityName:String;
 }
 
 export class Stand {
